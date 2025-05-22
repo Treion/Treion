@@ -3,9 +3,9 @@
   Hey! I’m <strong>Treion</strong>
 </h1>
 
-<p align="center"><em>💻 Passionate backend developer in his learning stage 🚀</em></p>
+<p align="left">💻 <em>Passionate backend developer in his learning stage</em></p>
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/Treion/Treion/blob/main/banner.jpg" alt="Banner" width="100%"/>
 </p>
 
