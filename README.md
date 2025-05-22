@@ -9,10 +9,29 @@
   <img src="https://github.com/Treion/Treion/blob/main/banner.jpg" alt="Banner" width="100%"/>
 </p>
 
----
+<hr/>
 
 ## 🔗 About Me
-- 16yo
-- he/him
-- likes to play minecraft
-- likes to learn new tech
+
+- 🧑 16 y/o & he/him
+- 📝 Giving **Edexcel IGCSE / O Levels**
+- 🎮 I love playing **Minecraft** (Redstone + building enjoyer)
+- 📚 Currently learning **Python** for IGCSE Computer Science
+- 🤖 Learning **JavaScript** and **Discord.js** to create cool Discord bots
+- 🧠 Always exploring new tech and backend tools
+
+---
+
+<p align="left">
+  <a href="https://discord.com/users/758728938448224258">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=">
+  </a>
+  <a href="https://www.instagram.com/treion_/">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=">
+  </a>
+  <a href="https://www.reddit.com/user/TreionDragon/">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Reddit&color=FF4500&logo=Reddit&logoColor=FFFFFF&label=">
+  </a>
+</p>
+
+
