@@ -1,1 +1,1 @@
-![Banner](https://github.com/Treion/Treion/blob/main/banner.png)
+![Banner](https://github.com/Treion/Treion/blob/main/banner.jpg)
