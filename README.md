@@ -22,9 +22,7 @@
 
 ---
 
----
-
-<div align="center">
+<div align="left">
   <a href="https://discord.com/users/758728938448224258">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=" />
   </a>
