@@ -10,3 +10,9 @@
 </p>
 
 ---
+
+## 🔗 About Me
+`.` 16yo
+`.` he/him
+`.` likes to play minecraft
+`.` likes to learn new tech
