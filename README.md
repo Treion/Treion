@@ -1,4 +1,6 @@
-## Hi there 👋
+![Banner](https://github.com/Treion/Treion/blob/1a8c426907e24be82fa985f1f2c680bdb736788a/banner.png)
+
+
 
 <!--
 **Treion/Treion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
