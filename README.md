@@ -22,7 +22,7 @@
 
 ---
 
-> [<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Reddit&color=FF4500&logo=Reddit&logoColor=FFFFFF&label=">](https://www.reddit.com/user/TreionDragon/) [<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=">](https://www.instagram.com/treion_/) [<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=">](https://discord.com/users/758728938448224258)
+[<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Reddit&color=FF4500&logo=Reddit&logoColor=FFFFFF&label=">](https://www.reddit.com/user/TreionDragon/) [<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=">](https://www.instagram.com/treion_/) [<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=">](https://discord.com/users/758728938448224258)
 
 ---
 
