@@ -15,9 +15,9 @@
 
 - 🧑 | 16 y/o | he/him |
 - 📝 Giving **Edexcel IGCSE / O Levels**
-- 🎮 I love playing **Minecraft**
+- 🎮 Passionate **Minecraft** player
 - 📚 Currently learning **Python** for IGCSE Computer Science
-- 🤖 Learning **Java** and OOP for building Spigot Plugins and Fabric Mods
+- 🤖 Learning **Java** and **OOP** for building Spigot Plugins and Fabric Mods
 - 🧠 Always exploring new tech and backend tools
 
 ---
