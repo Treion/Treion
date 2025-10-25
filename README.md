@@ -25,6 +25,7 @@
 [<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>](https://www.gnu.org/software/bash/) 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>](https://www.kernel.org/) 
 [<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>](https://www.arduino.cc/) 
+[<img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="raspberry-pi" width="40" height="40"/>](https://www.raspberrypi.com/) 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>](https://www.python.org/) 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/>](https://isocpp.org/)
 
