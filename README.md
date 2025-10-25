@@ -17,6 +17,7 @@
 - | May'26 **IGCSE** candidate |
 - | learning **python** |
 - | **electronics** enthusiast |
+- | i use **arch** btw** |
 
 ---
 
