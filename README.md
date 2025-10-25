@@ -3,7 +3,7 @@
   Hey! I’m <strong>Treion</strong>
 </h1>
 
-<p align="center"><strong><i>a passionate backend developer</i></strong></p>
+<p align="center"><strong><i>arham.mail@proton.me</i></strong></p>
 
 <p align="left">
   <img src="https://github.com/Treion/Treion/blob/main/banner.jpg" alt="Banner" width="100%"/>
