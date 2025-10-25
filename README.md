@@ -3,7 +3,7 @@
   Hey! I’m <strong>Treion</strong>
 </h1>
 
-<p align="left"><strong>A passionate backend developer in his learning stage</strong></p>
+<p align="left"><strong>A passionate backend developer at his learning stage</strong></p>
 
 <p align="left">
   <img src="https://github.com/Treion/Treion/blob/main/banner.jpg" alt="Banner" width="100%"/>
@@ -13,10 +13,10 @@
 
 ## 🔗 About Me
 
-- | 16 y/o | he/him |
-- Giving **Edexcel IGCSE / O Levels**
-- Currently learning **Python** for IGCSE Computer Science
-- Always exploring new tech and backend tools
+- | 16 y/o | he/him | 🇧🇩 |
+- | May'26 IGCSE candidate |
+- | learning **python** |
+- | electronics enthusiast |
 
 ---
 
