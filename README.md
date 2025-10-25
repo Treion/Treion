@@ -11,7 +11,7 @@
 
 <hr/>
 
-## 🔗 About Me
+## About Me
 
 - | 16 y/o | he/him |
 - | May'26 **IGCSE** candidate |
