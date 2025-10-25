@@ -13,10 +13,10 @@
 
 ## 🔗 About Me
 
-- | 16 y/o | he/him | 🇧🇩 |
+- | 16 y/o | he/him |
 - | May'26 IGCSE candidate |
 - | learning **python** |
-- | electronics enthusiast |
+- | **electronics** enthusiast |
 
 ---
 
