@@ -9,8 +9,6 @@
   <img src="https://github.com/Treion/Treion/blob/main/banner.jpg" alt="Banner" width="100%"/>
 </p>
 
-<hr/>
-
 ## About Me
 
 - | 16 y/o | he/him |
