@@ -13,7 +13,7 @@
 
 - | 16 y/o | he/him |
 - | May'26 **IGCSE** candidate |
-- | learning **python** && **c++** |
+- | learning **python** & **c++** |
 - | **electronics** enthusiast |
 - | i use **arch** btw |
 
