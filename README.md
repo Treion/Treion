@@ -29,6 +29,7 @@
 [<img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu-server" width="40" height="40"/>](https://ubuntu.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/>](https://www.vim.org/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" alt="neovim" width="40" height="40"/>](https://neovim.io/)
+[<img src="https://raw.githubusercontent.com/pterodactyl/panel/develop/public/images/pterodactyl.svg" alt="pterodactyl" width="40" height="40"/>](https://pterodactyl.io/)
 
 ---
 
