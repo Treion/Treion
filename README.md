@@ -26,8 +26,7 @@
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="raspberry-pi" width="40" height="40"/>](https://www.raspberrypi.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>](https://www.python.org/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/>](https://isocpp.org/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="40" height="40"/>](https://ubuntu.com/)
-[<img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu-server" width="40" height="40"/>](https://ubuntu.com/server)
+[<img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu-server" width="40" height="40"/>](https://ubuntu.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/>](https://www.vim.org/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" alt="neovim" width="40" height="40"/>](https://neovim.io/)
 
