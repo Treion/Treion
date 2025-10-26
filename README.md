@@ -32,9 +32,8 @@
   <a href="https://neovim.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" alt="Neovim" width="40" height="40"/></a>
 </p>
 
----
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Treion&show_icons=true&theme=radical&hide_border=true" alt="Treion's GitHub Stats"/>
