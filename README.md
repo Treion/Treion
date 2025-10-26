@@ -29,7 +29,6 @@
 [<img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu-server" width="40" height="40"/>](https://ubuntu.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/>](https://www.vim.org/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" alt="neovim" width="40" height="40"/>](https://neovim.io/)
-[<img src="https://pterodactyl.io/logos/pterry.svg" alt="pterodactyl" width="40" height="40"/>](https://pterodactyl.io/)
 ---
 
 [<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Reddit&color=FF4500&logo=Reddit&logoColor=FFFFFF&label=">](https://www.reddit.com/user/TreionDragon/) [<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=">](https://discord.com/users/758728938448224258) [<img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=">](https://www.linkedin.com/in/arham-syed-578362338)
