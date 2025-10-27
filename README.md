@@ -34,7 +34,7 @@
 
 
 ## GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thinkGrow&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Treion&layout=compact&theme=tokyonight)
 
 ---
 
