@@ -34,9 +34,7 @@
 
 
 ## GitHub Stats
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Treion&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thinkGrow&layout=compact&theme=tokyonight)
 
 ---
 
