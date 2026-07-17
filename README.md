@@ -11,11 +11,11 @@
 
 ## About Me
 
-- | 16 y/o | he/him |
-- | May'26 **IGCSE** candidate |
-- | learning **python** & **c++** |
+- | 17 y/o | he/him |
+- | a lvl candidate |
+- | i like **python** & **c++** |
 - | **electronics** enthusiast |
-- | i use **arch** btw |
+- | linux larper |
 
 ## Languages & Tools
 
